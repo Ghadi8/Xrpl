@@ -1,0 +1,16 @@
+{
+  "name": "xrpl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "basic": "node basic.js",
+    "token": "node token.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xrpl": "^2.3.1"
+  }
+}
